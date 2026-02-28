@@ -2,7 +2,7 @@
   "title": "Runpod",
   "description": "An example description",
   "type": "serverless",
-  "category": "image",
+  "category": "video",
   "iconUrl": "https://example.com/icon.png",
   "config": {
     "runsOn": "GPU",
